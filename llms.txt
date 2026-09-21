@@ -1,6 +1,6 @@
 # Reza Khosravivala
 
-> Software engineer with a background in psychology, based in the Netherlands. This site holds his essays: a 21-part walk through Spinoza's Ethics, from the universe down to the emotions, plus pages on his work, background and contact.
+> Software engineer with a background in psychology, based in the Netherlands. This site holds his essays: a 21-part walk through Spinoza's Ethics, from the universe down to the emotions, and standalone essays, plus pages on his work, background and contact.
 
 Every essay has a Markdown edition at its URL plus `index.md`. The whole series in one file: https://rezakhosravivala.com/llms-full.txt. Feed: https://rezakhosravivala.com/feed.xml. Author page: https://rezakhosravivala.com/about/.
 
@@ -27,6 +27,10 @@ Every essay has a Markdown edition at its URL plus `index.md`. The whole series 
 - [3.0 Emotions](https://rezakhosravivala.com/essays/emotions/index.md): Spinoza's view on the emotions contrariwise
 - [3.1 Emotion Definitions](https://rezakhosravivala.com/essays/emotion-definitions/index.md): Spinoza's view on the emotions contrariwise
 - [5.2 Intellectual Love of God or the Ultimate Freedom](https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md): Freedom through necessity: how understanding the causes of things, up to the third kind of knowledge, is Spinoza's ultimate freedom.
+
+## Standalone essays
+
+- [How companies become evil](https://rezakhosravivala.com/essays/how-companies-become-evil/index.md): How corporations might forget the essential problem they wanted to solve initially, and how the end comes to justify the means for them.
 
 ## Pages
 

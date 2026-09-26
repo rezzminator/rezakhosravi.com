@@ -4,7 +4,7 @@ Spinoza's Ethics 1.6 · essay 7 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/perfection/  (this Markdown edition: https://rezakhosravivala.com/essays/perfection/index.md)
 Summary: Spinoza view on perfection and reality and how they are synonymous
 Topics: Spinoza, Ethics, Perfection, Reality
-Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-2-perfection-or-reality-or-gods-infinitely-perfect-graphic-4be5f2e0aa88); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-2-perfection-or-reality-or-gods-infinitely-perfect-graphic-4be5f2e0aa88); mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
 Next: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
 

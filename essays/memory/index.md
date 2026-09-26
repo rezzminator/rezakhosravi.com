@@ -4,7 +4,7 @@ Spinoza's Ethics 2.5 · essay 14 of 21 · by Reza Khosravivala · published 2024
 Canonical: https://rezakhosravivala.com/essays/memory/  (this Markdown edition: https://rezakhosravivala.com/essays/memory/index.md)
 Summary: How memory and pattern recognition works and falsy errors
 Topics: Memory, ideas, pattern-recognition, Bias, First-Kind Knowledge, Emotions
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 2.4 Kinds of knowledge, reflection, mind-reality gap (https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 Next: 2.6 Mind Errors (https://rezakhosravivala.com/essays/errors/index.md)
 

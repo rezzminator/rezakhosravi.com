@@ -4,7 +4,7 @@ Spinoza's Ethics 1.1 · essay 2 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/universe/  (this Markdown edition: https://rezakhosravivala.com/essays/universe/index.md)
 Summary: Cause and effect in the universe
 Topics: universe, cause and effect, space, time, matter, energy
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.0 Spinoza and Ethics (https://rezakhosravivala.com/essays/spinoza-and-ethics/index.md)
 Next: 1.2 Building Blocks (https://rezakhosravivala.com/essays/building-blocks/index.md)
 
@@ -197,7 +197,7 @@ Imagine you have a computer game in a self-play mode, once you set the initial v
 
 #### [Game of life](https://playgameoflife.com/)
 
-Game of life is a great example of the system, where the future of the game is determined by the past and current state of the game. And also if you want to play it in your terminal you can use my [game of life](https://github.com/mreza0100/game-of-life) implementation.
+Game of life is a great example of the system, where the future of the game is determined by the past and current state of the game. And also if you want to play it in your terminal you can use my [game of life](https://github.com/rezzminator/game-of-life) implementation.
 
 #### What happens next moment is the result of the past and current state.
 

@@ -4,7 +4,7 @@ Spinoza's Ethics 3.1 · essay 20 of 21 · by Reza Khosravivala · published 2024
 Canonical: https://rezakhosravivala.com/essays/emotion-definitions/  (this Markdown edition: https://rezakhosravivala.com/essays/emotion-definitions/index.md)
 Summary: Spinoza's view on the emotions contrariwise
 Topics: Emotions definitions Spinoza
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 3.0 Emotions (https://rezakhosravivala.com/essays/emotions/index.md)
 Next: 5.2 Intellectual Love of God or the Ultimate Freedom (https://rezakhosravivala.com/essays/intellectual-love-of-god/index.md)
 

@@ -4,7 +4,7 @@ Spinoza's Ethics 2.0 · essay 9 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/life/  (this Markdown edition: https://rezakhosravivala.com/essays/life/index.md)
 Summary: Spinoza's view on the life and living beings and how they are part of nature
 Topics: Spinoza, Ethics, Life, Living Beings
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.7 Miracles (https://rezakhosravivala.com/essays/miracles/index.md)
 Next: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
 

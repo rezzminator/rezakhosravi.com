@@ -4,7 +4,7 @@ Spinoza's Ethics 2.1 · essay 10 of 21 · by Reza Khosravivala · published 2024
 Canonical: https://rezakhosravivala.com/essays/mind/  (this Markdown edition: https://rezakhosravivala.com/essays/mind/index.md)
 Summary: Spinoza's view on the mind, idea, and memory as modes of thought
 Topics: Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory, Substance, Parallelism, Causality, Chaos Theory
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io); GitHub (https://gist.github.com/mreza0100/f05a15c0a7d30336bc6d955d8ecea900)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io); GitHub (https://gist.github.com/rezzminator/f05a15c0a7d30336bc6d955d8ecea900)
 Previous: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
 Next: 2.2 Body (https://rezakhosravivala.com/essays/body/index.md)
 

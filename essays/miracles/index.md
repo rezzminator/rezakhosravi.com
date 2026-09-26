@@ -4,7 +4,7 @@ Spinoza's Ethics 1.7 · essay 8 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/miracles/  (this Markdown edition: https://rezakhosravivala.com/essays/miracles/index.md)
 Summary: Spinoza's view on the miracles and the impossibility of breaking the laws of nature
 Topics: Spinoza, Ethics, Miracles, Nature, Determinism, conditioned, contingent
-Originally on: GitHub (https://gist.github.com/mreza0100/94537142750c02340599da2683141eae); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: GitHub (https://gist.github.com/rezzminator/94537142750c02340599da2683141eae); mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
 Next: 2.0 Life or Living Beings (https://rezakhosravivala.com/essays/life/index.md)
 

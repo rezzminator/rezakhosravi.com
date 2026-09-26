@@ -4,7 +4,7 @@ Spinoza's Ethics 1.4 · essay 5 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/causality/  (this Markdown edition: https://rezakhosravivala.com/essays/causality/index.md)
 Summary: Cause and effect, how things happen in the universe
 Topics: causality, cause and effect, time, randomness, determinism
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
 Next: 1.5 Necessity or infinite accuracy (https://rezakhosravivala.com/essays/necessity/index.md)
 

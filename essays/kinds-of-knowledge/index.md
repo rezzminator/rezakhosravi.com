@@ -4,7 +4,7 @@ Spinoza's Ethics 2.4 · essay 13 of 21 · by Reza Khosravivala · published 2024
 Canonical: https://rezakhosravivala.com/essays/kinds-of-knowledge/  (this Markdown edition: https://rezakhosravivala.com/essays/kinds-of-knowledge/index.md)
 Summary: Categorizing about all the knowledge we know therefore being able to check the validity
 Topics: Spinoza, Ethics, kinds of knowledge, mind reality, reality psychology
-Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-2-0-kinds-of-knowledge-reflection-mind-reality-gap-and-neuroses-e3efc78593d8); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-2-0-kinds-of-knowledge-reflection-mind-reality-gap-and-neuroses-e3efc78593d8); mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
 Next: 2.5 Memory (https://rezakhosravivala.com/essays/memory/index.md)
 

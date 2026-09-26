@@ -4,7 +4,7 @@ Spinoza's Ethics 1.5 · essay 6 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/necessity/  (this Markdown edition: https://rezakhosravivala.com/essays/necessity/index.md)
 Summary: How the laws of nature determine that every effect must necessarily follow from its cause
 Topics: Spinoza, Ethics, Perfection, Reality
-Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-1-necessity-or-infinite-accuracy-c6a500d4232a); mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: Medium (https://medium.com/@mrez9090/spinoza-ethics-1-1-necessity-or-infinite-accuracy-c6a500d4232a); mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.4 Causality (https://rezakhosravivala.com/essays/causality/index.md)
 Next: 1.6 (perfection or reality) or (God’s perfect graphic) (https://rezakhosravivala.com/essays/perfection/index.md)
 

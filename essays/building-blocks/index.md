@@ -4,7 +4,7 @@ Spinoza's Ethics 1.2 · essay 3 of 21 · by Reza Khosravivala · published 2024-
 Canonical: https://rezakhosravivala.com/essays/building-blocks/  (this Markdown edition: https://rezakhosravivala.com/essays/building-blocks/index.md)
 Summary: Spinoza's view on the building blocks of the fundamental elements of the universe
 Topics: Spinoza, Nature, attribute, substance, mode
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 1.1 Universe (https://rezakhosravivala.com/essays/universe/index.md)
 Next: 1.3 God or nature (causality execution environment) (https://rezakhosravivala.com/essays/god-or-nature/index.md)
 

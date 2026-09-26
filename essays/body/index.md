@@ -4,7 +4,7 @@ Spinoza's Ethics 2.2 · essay 11 of 21 · by Reza Khosravivala · published 2024
 Canonical: https://rezakhosravivala.com/essays/body/  (this Markdown edition: https://rezakhosravivala.com/essays/body/index.md)
 Summary: Spinoza's view on the body and how it is a mode of substance
 Topics: Spinoza, Ethics, Body, Mode, Substance, Extension, Mind-Body
-Originally on: mamzi.net (archived on GitHub) (https://github.com/mreza0100/mamzi.net.github.io)
+Originally on: mamzi.net (archived on GitHub) (https://github.com/rezzminator/mamzi.net.github.io)
 Previous: 2.1 Mind (https://rezakhosravivala.com/essays/mind/index.md)
 Next: 2.3 Ideas (https://rezakhosravivala.com/essays/ideas/index.md)
 

@@ -2596,7 +2596,7 @@ So we see that everything is connected, and everything has a cause, and everythi
 <h4>Ones the rules are set, the game is played</h4>
 <p>Imagine you have a computer game in a self-play mode, once you set the initial values, the future of the game is determined by the past and current state of the game.</p>
 <h4><a href="https://playgameoflife.com/">Game of life</a></h4>
-<p>Game of life is a great example of the system, where the future of the game is determined by the past and current state of the game. And also if you want to play it in your terminal you can use my <a href="https://github.com/mreza0100/game-of-life">game of life</a> implementation.</p>
+<p>Game of life is a great example of the system, where the future of the game is determined by the past and current state of the game. And also if you want to play it in your terminal you can use my <a href="https://github.com/rezzminator/game-of-life">game of life</a> implementation.</p>
 <h4>What happens next moment is the result of the past and current state.</h4>
 <h3>The future is predetermined and it's called determinism.</h3>
 <h3>Next steps</h3>
